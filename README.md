@@ -1,2 +1,2 @@
 # Particle-Swarm-Optimization
-In this project we will use Particle Swarm Optimization in order to classify Iris Dataset.
+In this project we will use Particle Swarm Optimization (PSO) in order to classify Iris Dataset.
